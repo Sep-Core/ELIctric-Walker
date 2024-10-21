@@ -1,7 +1,7 @@
 import random
 
 print("""
-ELIctric Walker - alpha1.0 Oct18-2024
+ELIctric Walker - alpha1.0.1 Oct21-2024
 
 IDCraft Community
 Game Rule:
@@ -29,7 +29,7 @@ Game Rule:
    will be taken and you will be deducted 15 scores. In the rest of
    class, you will not be able to play anymore.
 """)
-
+while True:
    t = 40
    score = 0
    co_score = 1
