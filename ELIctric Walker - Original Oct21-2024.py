@@ -1,7 +1,7 @@
 import random
 
 print("""
-ELIctric Walker - original Oct21-2024
+ELIctric Walker - Original Oct21-2024
 
 IDCraft Community
 Game Rule:
